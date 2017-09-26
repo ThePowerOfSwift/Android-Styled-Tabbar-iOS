@@ -11,4 +11,4 @@
 4) You Have successfull Added Android styled TabBar.
 
 Screenshots:
-![Alt text](/Screenshot/view1.png?raw=true  "View1")  -   ![Alt text](/Screenshot/view2.png?raw=true  "view2")   
+![Alt text](/Screenshots/view1.png?raw=true  "View1")  -   ![Alt text](/Screenshots/view2.png?raw=true  "view2")   
